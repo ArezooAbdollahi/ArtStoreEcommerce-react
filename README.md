@@ -5,7 +5,7 @@ Here is the technical details of the project.
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/about.PNG)
 
 # How the pages looks like: 
--Here is the item page: 
+-Here is the item page and the main page when someone visiting the website: 
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/mainPage.PNG)
 
 -Here is the sign in/signout page: 
@@ -15,7 +15,7 @@ Here is the technical details of the project.
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
 
 -Here is what we have in our cart:
-[!alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
 
 # Tech Stack
 - backend: Firebase
