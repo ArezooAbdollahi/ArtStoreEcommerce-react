@@ -2,20 +2,9 @@
 Here is my react project for COMIT. I designed an artstore website to sell my artworks and support other local artists by showing their works here. 
 Note that some of the paintings are reproduction from famous artists. 
 Here is the technical details of the project. 
-![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/about.PNG)
 
-# How the pages looks like: 
 -Here is the item page and the main page when someone visiting the website: 
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/mainPage.PNG)
-
--Here is the sign in/signout page: 
-![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/login.PNG)
-
--Here is the items per categories: 
-![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
-
--Here is what we have in our cart:
-![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
 
 # Tech Stack
 - backend: Firebase
@@ -48,6 +37,18 @@ For every external state in our application, we'll need to implement:
   - backend integration
   - Auth
   - storage
+  
+# How the pages looks like:
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/about.PNG)
+
+-Here is the sign in/signout page: 
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/login.PNG)
+
+-Here is the items per categories: 
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
+
+-Here is what we have in our cart:
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
 
 
 # Second Phase: 
