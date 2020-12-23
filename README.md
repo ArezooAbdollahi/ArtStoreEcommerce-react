@@ -5,7 +5,7 @@ Here is the technical details of the project.
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/about.PNG)
 
 # How the pages looks like: 
--Here is the about item page: 
+-Here is the item page: 
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/mainPage.PNG)
 
 -Here is the sign in/signout page: 
