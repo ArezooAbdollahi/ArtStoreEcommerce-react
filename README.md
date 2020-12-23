@@ -43,3 +43,5 @@ For every external state in our application, we'll need to implement:
 
 # Third Phase: 
 - Users are able to start chat with bot( an NLP ChatBot model with be implemented for this project)
+
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/about.PNG)
