@@ -6,13 +6,13 @@ Here is the technical details of the project.
 
 # How the pages looks like: 
 -Here is the about item page: 
-[!alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/mainPage.PNG)
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/mainPage.PNG)
 
 -Here is the sign in/signout page: 
-[!alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/login.PNG)
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/login.PNG)
 
 -Here is the items per categories: 
-[!alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
 
 -Here is what we have in our cart:
 [!alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
