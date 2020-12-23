@@ -48,7 +48,7 @@ For every external state in our application, we'll need to implement:
 ![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
 
 -Here is what we have in our cart:
-![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/imagesBasedOnCategory.PNG)
+![alt text](https://github.com/ArezooAbdollahi/ArtStoreEcommerce-react/blob/master/cart.PNG)
 
 
 # Second Phase: 
